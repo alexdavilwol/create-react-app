@@ -1,2 +1,2 @@
-# create-react-app
+# react-complete-guide
 Maximus training from udemy
